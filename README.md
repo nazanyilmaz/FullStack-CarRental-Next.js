@@ -7,9 +7,9 @@
  -For the payment system, I integrated Stripe, and all car data and orders are stored in a MongoDB database. 
  </p>
 
- <h1>The libraries used </h1>
+ <h4>The libraries used </h4>
  ` Next, Millify, Mongoose, Stripe, React-Icons `
 
 `npm run dev`
 
-![Project Gif](./gif)
+![Project Gif](./gif.gif)
